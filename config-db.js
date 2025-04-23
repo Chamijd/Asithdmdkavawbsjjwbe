@@ -1,6 +1,6 @@
 const GITHUB_AUTH_TOKEN = "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"
 const GITHUB_USERNAME = "athulakumara604"
-const SESSION_ID = "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=f64CSCza#uRH2LntCwC22d5qhpF1cQRzLcAKUYhE5kH0VLKU0zjQ"
+const SESSION_ID = "XQs0iboB#objco8S0ld31ihw4Z3YvJTc1EZgO57TJvmY8i_BJ8Jo"
 
 
 module.exports = {
