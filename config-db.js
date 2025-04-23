@@ -1,0 +1,10 @@
+const GITHUB_AUTH_TOKEN = "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"
+const GITHUB_USERNAME = "athulakumara604"
+const SESSION_ID = "𝙰𝚂𝙸𝚃𝙷𝙰-𝙼𝙳=f64CSCza#uRH2LntCwC22d5qhpF1cQRzLcAKUYhE5kH0VLKU0zjQ"
+
+
+module.exports = {
+GITHUB_AUTH_TOKEN,
+GITHUB_USERNAME,
+SESSION_ID
+}
